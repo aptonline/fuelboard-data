@@ -1,8 +1,8 @@
 {
-  "date": "2026-09-24",
-  "station_count": 8070,
-  "data_updated": "2026-09-24T08:58:40.000Z",
+  "date": "2026-09-25",
+  "station_count": 8064,
+  "data_updated": "2026-09-24T14:58:44.000Z",
   "available_from": "2026-08-15",
-  "available_to": "2026-09-24",
-  "files": 41
+  "available_to": "2026-09-25",
+  "files": 42
 }
